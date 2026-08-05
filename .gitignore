@@ -1,1 +1,4 @@
 /resurrect/*
+
+# TPM-managed plugins are cloned at runtime, not tracked in git
+/plugins/*
